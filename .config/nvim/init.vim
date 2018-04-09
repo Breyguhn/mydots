@@ -1,4 +1,6 @@
-let g:lightline = {'colorscheme': 'wombat',}
+" #::::::::::::::: NeoVim config ::::::::::::::::#
+
+" #::::::::::::::: Keybindings/Settings ::::::::::::::::#
 
 map <C-o> :NERDTreeToggle<CR>
 map <C-g> :Goyo<CR>
@@ -11,6 +13,8 @@ set nowrap
 syntax on
 
 " #::::::::::::::: LimeLight Colour Config ::::::::::::::::#
+
+let g:lightline = {'colorscheme': 'wombat',}
 
 " Color name (:help cterm-colors) or ANSI code
 let g:limelight_conceal_ctermfg = 'gray'
