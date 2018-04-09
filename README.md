@@ -4,4 +4,4 @@ These are the dotfiles for my BlackArchon rice which use the Nord colour pallet 
 
 Njoy
 
-![alt text](https://github.com/Breyguhn/mydots/blob/master/Pictures/mirrorMountains.png)
+![alt text](https://github.com/Breyguhn/mydots/blob/master/Pictures/Screens/i3_rice.png)
