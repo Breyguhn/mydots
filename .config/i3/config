@@ -29,6 +29,7 @@ font pango:FontAwesome 10
 
 # My Binds
 bindsym $mod+p exec rofi-pass
+bindsym Print exec flameshot gui
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
