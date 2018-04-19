@@ -9,7 +9,6 @@ map <C-l> :Limelight<CR>
 set nu
 set autoindent
 set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
-set nowrap
 syntax on
 
 " #::::::::::::::: LimeLight Colour Config ::::::::::::::::#

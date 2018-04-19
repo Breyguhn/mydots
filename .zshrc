@@ -68,9 +68,15 @@ source $ZSH/oh-my-zsh.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
+#:::::::::::::::: My Aliases ::::::::::::::::#
+
 alias ls='ls --color=auto'
 alias ll='ls -lah --color=auto'
 alias vim='nvim'
+alias nc='ncat'
+alias cls='clear'
+
+#:::::::::::::::: More Stuff ::::::::::::::::#
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
